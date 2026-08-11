@@ -1,1 +1,1 @@
-# java_algo
+# JAVA ALGORITHMS
