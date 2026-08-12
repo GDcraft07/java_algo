@@ -1,4 +1,4 @@
-package algorithms.problem_2769;
+package solution_problem_from_leetcode.problem_2769;
 
 class Solution {
     public int theMaximumAchievableX(int num, int t) {

@@ -1,4 +1,4 @@
-package algorithms.problem_9;
+package solution_problem_from_leetcode.problem_9;
 
 public class Test {
     public static void main(String[] args) {

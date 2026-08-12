@@ -1,4 +1,4 @@
-package algorithms.problem_9;
+package solution_problem_from_leetcode.problem_9;
 
 // Bad Solution
 //public class Solution {
